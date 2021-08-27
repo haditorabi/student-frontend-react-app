@@ -1,0 +1,8 @@
+.expand-btn {
+    cursor: pointer;
+    color: gray;
+  }
+  
+  .expand-btn:hover {
+    color: black;
+  }
